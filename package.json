@@ -2,12 +2,20 @@
   "name": "cameronthompson",
   "version": "1.0.0",
   "description": "Personal NPM Card",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Cameron Thompson",
+  "keywords": [
+    "npm",
+    "npx",
+    "node",
+    "javascript",
+    "front-end",
+    "npx card",
+    "business card"
+  ],
+  "author": "Cameron Thompson <camthomp96@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "boxen": "^4.2.0",
