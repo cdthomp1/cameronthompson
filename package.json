@@ -1,6 +1,6 @@
 {
   "name": "cameronthompson",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Personal NPM Card",
   "main": "./src/index.js",
   "bin": {
