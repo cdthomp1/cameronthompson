@@ -13,6 +13,6 @@ A little more about me... with npm installed, just type
 npx cameronthompson
 ```
 
-<img alt="screenshot" src="" />
+<img alt="screenshot" src="https://github.com/cdthomp1/cameronthompson/blob/master/Screen%20Shot.png" />
 
 
