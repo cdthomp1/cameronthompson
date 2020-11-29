@@ -1,0 +1,33 @@
+{
+  "name": "cameronthompson",
+  "version": "0.0.1",
+  "description": "My personal NPM business card",
+  "main": "index.js",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdthomp1/cameronthompson.git"
+  },
+  "keywords": [
+    "NPM",
+    "Business",
+    "Card",
+    "Node"
+  ],
+  "author": "Cameron Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdthomp1/cameronthompson/issues"
+  },
+  "homepage": "https://github.com/cdthomp1/cameronthompson#readme"
+}
