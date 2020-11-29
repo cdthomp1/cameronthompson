@@ -26,6 +26,10 @@
   ],
   "author": "Cameron Thompson <camthomp96@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdthomp1/cameronthompson.git"
+  },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
