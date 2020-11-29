@@ -38,7 +38,6 @@ const data = {
         .bold("BYU-I")}`,
     blog: chalk.gray("https://dev.to/") + chalk.whiteBright("cdthomp1"),
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("DeveloperCam"),
-    /* npm: chalk.gray("https://npmjs.com/") + chalk.red("~ridermansb"), */
     github: chalk.gray("https://github.com/") + chalk.green("cdthomp1"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("cameron-thompson96"),
     web: chalk.cyan("https://cameronthompson.io"),
@@ -47,7 +46,6 @@ const data = {
     labelWork: chalk.white.bold("       Work:"),
     labelBlog: chalk.white.bold("     Medium:"),
     labelTwitter: chalk.white.bold("    Twitter:"),
-    /* labelnpm: chalk.white.bold("        npm:"), */
     labelGitHub: chalk.white.bold("     GitHub:"),
     labelLinkedIn: chalk.white.bold("   LinkedIn:"),
     labelWeb: chalk.white.bold("        Web:"),
@@ -61,7 +59,6 @@ const me = boxen(
         `${data.labelWork}  ${data.work}`,
         `${data.labelBlog}  ${data.blog}`,
         `${data.labelTwitter}  ${data.twitter}`,
-        /* `${data.labelnpm}  ${data.npm}`, */
         `${data.labelGitHub}  ${data.github}`,
         `${data.labelLinkedIn}  ${data.linkedin}`,
         `${data.labelWeb}  ${data.web}`,
