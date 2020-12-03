@@ -1,3 +1,7 @@
+#!/usr/bin/env node
+
+"use strict";
+
 const boxen = require("boxen");
 const chalk = require("chalk");
 const inquirer = require("inquirer");
@@ -41,7 +45,7 @@ const data = {
     github: chalk.gray("https://github.com/") + chalk.green("cdthomp1"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("cameron-thompson96"),
     web: chalk.cyan("https://cameronthompson.io"),
-    npx: chalk.red("npx") + " " + chalk.white("cameronthompson"),
+    npx: chalk.green("npx") + " " + chalk.white("cameronthompson"),
 
     labelWork: chalk.white.bold("       Work:"),
     labelBlog: chalk.white.bold("     Medium:"),
@@ -76,7 +80,7 @@ const me = boxen(
         float: 'center',
         padding: 1,
         borderStyle: "single",
-        borderColor: "green"
+        borderColor: "cyan"
     }
 );
 

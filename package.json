@@ -1,8 +1,8 @@
 {
   "name": "cameronthompson",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "My personal NPM business card",
-  "main": "index.js",
+  "main": "./index.js",
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^4.1.0",
