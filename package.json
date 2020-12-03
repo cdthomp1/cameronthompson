@@ -1,6 +1,6 @@
 {
   "name": "cameronthompson",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal NPM business card",
   "main": "./index.js",
   "dependencies": {
@@ -9,6 +9,9 @@
     "clear": "^0.1.0",
     "inquirer": "^7.3.3",
     "open": "^7.3.0"
+  },
+  "bin": {
+    "cameronthompson": "./index.js"
   },
   "devDependencies": {},
   "scripts": {
